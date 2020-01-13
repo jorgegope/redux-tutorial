@@ -1,11 +1,14 @@
 {
-  "name": "01-redux-basic",
-  "version": "1.0.0",
-  "description": "First approach of redux implementation",
-  "main": "index.js",
-  "scripts": {
-    "test": "npm test"
-  },
-  "author": "jorgegope",
-  "license": "MIT"
+    "name": "01-redux-basic",
+    "version": "1.0.0",
+    "description": "First approach of redux implementation",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm test"
+    },
+    "author": "jorgegp",
+    "license": "MIT",
+    "dependencies": {
+        "redux": "^4.0.5"
+    }
 }
